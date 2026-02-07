@@ -7,6 +7,7 @@ Search for obfuscated files in the Epstein archive
 
 ## Usage
 * Run this script to automatically search through the provided HTML files, identify matching files, and download them locally.
+* The test_link.py I used to make sure the script needed to detect valid links to download worked. I left it in in case anyone wanted to try with specific links rather than entire pages of links.
 
 **Important Notes:**
 
